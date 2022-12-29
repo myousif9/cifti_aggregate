@@ -1,0 +1,23 @@
+{
+    "Name": "cifti_aggregate - Tool for aggregating '.dscalar.nii' files.",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "derivative",
+    "PipelineDescription":
+        {
+            "Name": "cifti_aggregate",
+            "Version": "0.1.0",
+            "CodeURL": "http://github.com/myousif9/cifti_aggregate",
+            "Author": "Mohamed Yousif",
+            "AuthorEmail": "myousif9@uwo.ca"
+        },
+    "GeneratedBy": [
+        {
+            "Name": "cifti_aggregate",
+            "Version": "0.1.0",
+            "CodeURL": "http://github.com/myousif9/cifti_aggregate",
+            "Author": "Mohamed Yousif",
+            "AuthorEmail": "myousif9@uwo.ca"
+ 
+        }
+    ]
+}
